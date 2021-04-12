@@ -8,3 +8,4 @@ void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
 void output_result(int[], int[]);
+//this line is modified from github
